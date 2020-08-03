@@ -24,7 +24,7 @@ base
 - docker: [docker install](https://docs.docker.com/engine/install/)
 - nvidia-docker: [nvidia-docker install](https://github.com/NVIDIA/nvidia-docker)
 
-如果在window平台使用wls2，可参考[wls2 install nvidia-docker](https://developer.nvidia.com/blog/announcing-cuda-on-windows-subsystem-for-linux-2/) 
+如果在window平台使用wsl2，可参考[wsl2 install nvidia-docker](https://developer.nvidia.com/blog/announcing-cuda-on-windows-subsystem-for-linux-2/) 
 
 
 #### 运行oneflow-101
